@@ -16,7 +16,7 @@ div align="left">
       current = { "Capital One": "Senior Software Engineer" }
       past = {                                               #  ---------------------------------------------------
         "Fidelity Investments": "Software Engineer",         # | "I bring a sharp analytical mindset and a passion |
-	"Microsoft": "Game Developer",                       # | for storytelling with data."                      |       
+	    "Microsoft": "Game Developer",                       # | for storytelling with data."                      |       
       }                                                      # |  - The Long And Short Of It                       |
       return current.append(past)                            #  ---------------------------------------------------
 
