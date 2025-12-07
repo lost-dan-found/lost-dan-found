@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lost-dan-found/lost-dan-found/blob/main/assets/plants.png" height="800px"/>
+  <img src="https://github.com/lost-dan-found/lost-dan-found/blob/main/assets/plant.png" height="800px"/>
 </div>
 
 <br>
