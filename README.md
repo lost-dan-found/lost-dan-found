@@ -1,5 +1,3 @@
-div align="left">
-
   ```python
 
   class DanielKoutris:
@@ -21,5 +19,3 @@ div align="left">
       return current.append(past)                            #  ---------------------------------------------------
 
   ```
-
-</div>
