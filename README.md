@@ -7,7 +7,7 @@ div align="left">
     def __init__(self):                                      
       🐢 self.name = "Daniel Koutris"                        #  ---------------------------------------------------
       🏔️ self.interests = "Hiking & Crosswords"              # | "Software engineer                                |
-      🇺 self.location = "Boston, MA"                        # | test test"                                        |
+      🇺🇸 self.location = "Boston, MA"                        # | test test"                                        |
       📖 self.education = "Kansas State University '22"      # | - About Me                                        |
       💻 self.major = "Computer Science"                     #  ---------------------------------------------------
                          
