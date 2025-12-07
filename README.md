@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://github.com/lost-dan-found/lost-dan-found/blob/main/assets/plants.png" height="300px"/>
+</div>
+
+<br>
+<!-- <hr> -->
+
+<br>
+  
+<div align="left">
+  
   ```python
 
   class DanielKoutris:
@@ -19,3 +30,4 @@
       return current.append(past)                            #  ---------------------------------------------------
 
   ```
+</div>
