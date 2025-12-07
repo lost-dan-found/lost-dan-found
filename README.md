@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://github.com/lost-dan-found/lost-dan-found/blob/main/assets/plant.png" height="800px"/>
-</div>
-
-<br>
-<!-- <hr> -->
-
-<br>
-  
 <div align="left">
   
   ```python
