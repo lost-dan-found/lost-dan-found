@@ -21,8 +21,9 @@
                          
   
     def work_experience(self):
-      current = { "Capital One": "Senior Software Engineer" }
-      past = {                                               #  ---------------------------------------------------
+      current = { "Klaiyo": "Software Engineer II" }
+      past = {
+		  "Capital One": "Senior Software Engineer"            #  ---------------------------------------------------
         "Fidelity Investments": "Software Engineer",         # | "I bring a sharp analytical mindset and a passion |
 	    "Microsoft": "Game Developer",                       # | for storytelling with data."                      |
       }                                                      # |  - What I do                                      |
